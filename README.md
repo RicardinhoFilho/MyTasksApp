@@ -6,7 +6,7 @@ Universidade Federal do Paraná - UFPR
 
 ---
 
-*DS120 - Desenvolvimento de Aplicações Web 1*
+*DS122 - Desenvolvimento Web 1*
 
 Prof. Alexander Robert Kutzke
 
