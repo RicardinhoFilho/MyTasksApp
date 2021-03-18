@@ -27,7 +27,7 @@
 
       <form action="index.php" method="POST">
         <div class="form-group">
-          <input type="hidden" name="id" value="">
+          <input type="hidden" name="id" value="<?php echo($_GET["id"]);?>">
           <label class="sr-only" for="inputTarefa">Editar tarefa</label>
           <input required type="text" name="novo-titulo-tarefa" class="form-control" id="inputTarefa" value="">
         </div>

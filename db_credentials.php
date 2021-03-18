@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "web1";
-$dbname = "ds120_2017_2";
+$password = "";
+$dbname = "MyTasksDB";
 $table = "MyTasks";
 ?>

@@ -29,7 +29,7 @@ $sql = "CREATE TABLE $table (
   id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
   titulo VARCHAR(100) NOT NULL,
   feito BOOLEAN DEFAULT false,
-  data_criado DATETIME NOT NULL,
+  data_criado DATETIME,
   data_feito DATETIME
 )";
 
